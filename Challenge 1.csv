@@ -1,0 +1,19 @@
+File Path,Keyword,Hits
+test_data\AD\0F89.txt,private,1
+test_data\AE\BF\01E1.txt,private,2
+test_data\AF\AF\45D3.txt,private,1
+test_data\AF\AF\AD\BE\66EE.txt,secret,1
+test_data\AF\CD\CD\B20D.txt,secret,1
+test_data\BF\F742.txt,private,1
+test_data\CE\342E.txt,Confidential,1
+test_data\CF\AF\BD\AB63.txt,private,1
+test_data\AF\AF\45D3.txt,PRIVATE,1
+test_data\BF\AF\BD\AF\4439.txt,SECRET,1
+test_data\BF\F742.txt,PRIVATE,1
+test_data\CD\BE\AD\CD\9C10.txt,SECRET,1
+test_data\CE\0A27.txt,CONFIDENTIAL,1
+test_data\CF\CD\AD\AD\258A.txt,CONFIDENTIAL,1
+test_data\AD\BF\CF\CF\8FD5.txt,confidential,1
+test_data\BF\9E81.txt,confidential,1
+test_data\BF\F742.txt,private,1
+test_data\CF\AF\BD\AB63.txt,private,1
